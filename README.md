@@ -3,7 +3,7 @@
 A repository for all the projects I completed on DataQuest.
 
 
-**Exchange Rate.ipynb**
+[**Exchange Rate.ipynb**](https://github.com/ChrisRad21/DataQuest-Projects/blob/95a29ddcc6b27481942363890a642cc598992fa2/Exchange%20Rate.ipynb)
  - A project mainly focusing on the storytelling aspect of data visualization. I took a dataset focused on the EURO exchange rate to other national currencies, focused on the EURO-USD rate, and then presented a figure detailing the fluctations in that ratio from the past twenty years. 
 
 **Hacker News Analysis.ipynb**
