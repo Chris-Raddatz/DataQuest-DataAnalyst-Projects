@@ -2,6 +2,9 @@
 
 A repository for all the projects I completed on DataQuest.
 
+[**Star Wars Viewership and Preference**](https://github.com/Chris-Raddatz/DataQuest-Projects/blob/main/Capstone%20Projects/starwars.ipynb)
+- A project focused on the cleaning of a dataset from a survey that asked people on their preference for films in the Star Wars IP, mainly concerning favorite film and whether or not they have seen all 6 of the original trilogies. 
+
 [**Employee Resignation**](https://github.com/ChrisRad21/DataQuest-Projects/blob/main/Capstone%20Projects/Employee.ipynb)
 - A project from the first section of data clean up on the Dataquest 'Data Analyst' pathway. Given two datasets with surveys on employee resignation data and required to combine and then perform a simple analysis. 
 
