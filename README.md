@@ -1,6 +1,6 @@
 # Portfolio
 
-A repository for all the projects I completed on DataQuest.
+A repository for all the projects I completed on DataQuest. (Most recent at top of list)
 
 [**CIA Country Statistics Analysis**](https://github.com/Chris-Raddatz/DataQuest-Projects/blob/main/Capstone%20Projects/CIA%2BData.ipynb)
 - First project using SQL, very basic and shows off the first few fundamental uses of SQL.
