@@ -2,6 +2,9 @@
 
 A repository for all the projects I completed on DataQuest.
 
+[**CIA Country Statistics Analysis**](https://github.com/Chris-Raddatz/DataQuest-Projects/blob/main/Capstone%20Projects/CIA%2BData.ipynb)
+- First project using SQL, very basic and shows off the first few fundamental uses of SQL.
+
 [**Star Wars Viewership and Preference**](https://github.com/Chris-Raddatz/DataQuest-Projects/blob/main/Capstone%20Projects/starwars.ipynb)
 - A project focused on the cleaning of a dataset from a survey that asked people on their preference for films in the Star Wars IP, mainly concerning favorite film and whether or not they have seen all 6 of the original trilogies. 
 
