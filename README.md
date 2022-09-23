@@ -2,6 +2,9 @@
 
 A repository for all the projects I completed on DataQuest. (Most recent at top of list)
 
+[**Fandango Star Rating Analysis**](https://github.com/Chris-Raddatz/DataQuest-Projects/blob/main/Capstone%20Projects/Movie%2BAnalysis.ipynb)
+- Project using summary statistics and data visualization to analyze the possible effect of [538's](https://fivethirtyeight.com/features/fandango-movies-ratings/) article on Fandango's inflation of their star rating system.
+
 [**CIA Country Statistics Analysis**](https://github.com/Chris-Raddatz/DataQuest-Projects/blob/main/Capstone%20Projects/CIA%2BData.ipynb)
 - First project using SQL, very basic and shows off the first few fundamental uses of SQL.
 
