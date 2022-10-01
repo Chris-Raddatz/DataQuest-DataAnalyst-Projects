@@ -3,7 +3,7 @@
 A repository for all the projects I completed on DataQuest. (Most recent at top of list)
 
 [**Company Marketing Advice**](https://github.com/Chris-Raddatz/DataQuest-Projects/blob/main/Capstone%20Projects/Survey.ipynb)
-- Project using publicly available data to recommend markets for a hypothetical company looking to advertise their product. Uses boxplots, barpliots, data cleaning and sorting
+- Project using publicly available data to recommend markets for a hypothetical company looking to advertise their product. Uses boxplots, barpliots, data cleaning and sorting.
 
 [**Fandango Star Rating Analysis**](https://github.com/Chris-Raddatz/DataQuest-Projects/blob/main/Capstone%20Projects/Movie%2BAnalysis.ipynb)
 - Project using summary statistics and data visualization to analyze the possible effect of [538's](https://fivethirtyeight.com/features/fandango-movies-ratings/) article on Fandango's inflation of their star rating system.
