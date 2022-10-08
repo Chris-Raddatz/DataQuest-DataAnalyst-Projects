@@ -2,6 +2,9 @@
 
 A repository for all the projects I completed on DataQuest. (Most recent at top of list)
 
+[**Winning the Lottery? You can sure try**](https://github.com/Chris-Raddatz/DataQuest-Projects/blob/main/Capstone%20Projects/Lottery.ipynb)
+- Project for hypothetical lottery addicts to use to persuade them to stop using financial resources on lottery tickets. 
+
 [**Company Marketing Advice**](https://github.com/Chris-Raddatz/DataQuest-Projects/blob/main/Capstone%20Projects/Survey.ipynb)
 - Project using publicly available data to recommend markets for a hypothetical company looking to advertise their product. Uses boxplots, barpliots, data cleaning and sorting.
 
