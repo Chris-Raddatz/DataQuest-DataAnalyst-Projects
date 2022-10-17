@@ -2,6 +2,9 @@
 
 A repository for all the projects I completed on DataQuest. (Most recent at top of list)
 
+[**Naive Bayes Algorithm E-mail Filter**](https://github.com/Chris-Raddatz/DataQuest-Projects/blob/main/Capstone%20Projects/Email%2BSpam.ipynb)
+- Built a E-mail filter from a Naive Bayes Algorithm to apply towards a dataset of about 8000 rows of e-mail messages. 
+
 [**Winning the Lottery? You can sure try**](https://github.com/Chris-Raddatz/DataQuest-Projects/blob/main/Capstone%20Projects/Lottery.ipynb)
 - Project for hypothetical lottery addicts to use to persuade them to stop using financial resources on lottery tickets. 
 
