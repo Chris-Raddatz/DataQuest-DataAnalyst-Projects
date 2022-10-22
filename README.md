@@ -2,6 +2,9 @@
 
 A repository for all the projects I completed on DataQuest. (Most recent at top of list)
 
+[**Jeopardy Word Predictor**](https://github.com/Chris-Raddatz/DataQuest-Projects/blob/main/Capstone%20Projects/Jeopardy.ipynb)
+- Attempting to estimate what words are associated with answers within Jeopardy questions through sorting and chi-squared tests. 
+
 [**Naive Bayes Algorithm E-mail Filter**](https://github.com/Chris-Raddatz/DataQuest-Projects/blob/main/Capstone%20Projects/Email%2BSpam.ipynb)
 - Built a E-mail filter from a Naive Bayes Algorithm to apply towards a dataset of about 8000 rows of e-mail messages. 
 
