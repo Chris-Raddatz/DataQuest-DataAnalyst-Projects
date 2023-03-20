@@ -3,7 +3,7 @@
 A repository for all the projects I completed on DataQuest. (Most recent at top of list)
 
 [**Jeopardy Word Predictor**](https://github.com/Chris-Raddatz/DataQuest-Projects/blob/main/Capstone%20Projects/Jeopardy.ipynb)
-- Attempting to estimate what words are associated with answers within Jeopardy questions through sorting and chi-squared tests. 
+- Attempting to estimate what words are associated with correct answers in Jeopardy questions through sorting and chi-squared tests. 
 
 [**Naive Bayes Algorithm E-mail Filter**](https://github.com/Chris-Raddatz/DataQuest-Projects/blob/main/Capstone%20Projects/Email%2BSpam.ipynb)
 - Built a E-mail filter from a Naive Bayes Algorithm to apply towards a dataset of about 8000 rows of e-mail messages. 
@@ -18,7 +18,7 @@ A repository for all the projects I completed on DataQuest. (Most recent at top 
 - Project using summary statistics and data visualization to analyze the possible effect of [538's](https://fivethirtyeight.com/features/fandango-movies-ratings/) article on Fandango's inflation of their star rating system.
 
 [**CIA Country Statistics Analysis**](https://github.com/Chris-Raddatz/DataQuest-Projects/blob/main/Capstone%20Projects/CIA%2BData.ipynb)
-- First project using SQL, very basic and shows off the first few fundamental uses of SQL.
+- First project using SQL. Uses the database language on Jupyter Notebooks to identify densely populated areas throughout the globe.
 
 [**Star Wars Viewership and Preference**](https://github.com/Chris-Raddatz/DataQuest-Projects/blob/main/Capstone%20Projects/starwars.ipynb)
 - A project focused on the cleaning of a dataset from a survey that asked people on their preference for films in the Star Wars IP, mainly concerning favorite film and whether or not they have seen all 6 of the original trilogies. 
